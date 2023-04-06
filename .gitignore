@@ -107,3 +107,8 @@ TestResults/
 *.swp
 *.DS_Store?
 *.DS_Store
+
+# Custom Directories
+
+cover-pages
+final
