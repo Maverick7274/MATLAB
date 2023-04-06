@@ -1,0 +1,109 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Windows Recycle Bin
+$RECYCLE.BIN/
+
+# Node.js files
+node_modules/
+npm-debug.log*
+
+# Visual Studio files
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.vcproj
+*.ncb
+*.aps
+*.clw
+*.pdb
+*.obj
+*.res
+*.pch
+*.idb
+*.manifest
+*.ipch
+*.aps
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+/.vs/
+/bin/
+/obj/
+/Debug/
+/Release/
+TestResults/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.dll
+*.cache
+*.pubxml
+*.publish.xml
+*.xml
+
+# MATLAB files
+*.asv
+*.mex
+*.mexa64
+*.mexmaci64
+*.mexglx
+*.mdl
+*.mat
+*.fig
+*.nfig
+*.slx
+*.sldprt
+*.sldasm
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+
+# LaTeX files
+*.aux
+*.log
+*.out
+*.toc
+*.gz
+*.blg
+*.bbl
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.pdfsync
+
+# Compiled files
+*.class
+*.pyc
+*.pyo
+*.exe
+*.dll
+*.obj
+*.o
+*.so
+*.a
+*.dylib
+
+# Temporary files
+*.tmp
+*~
+*.bak
+*.swp
+*.DS_Store?
+*.DS_Store
