@@ -15,3 +15,5 @@ This repository contains MATLAB scripts for the following experiments:
 | 8. |Input Scripts|Writes brief scripts starting each script with a request for input (using input) to evaluate the function h(T) using if-else statements, where h(T) = (T – 10) for 0 < T < 100 and h(T) = (0.45 T + 900) for T > 100.|
 | 9. |Generating Square Waves|Generates a square wave from the sum of sine waves of certain amplitude and frequencies.|
 | 10. |Basic 2D and 3D Plots|Generates parametric space curves, polygons with vertices, 3D contour lines, pie charts, and bar charts.|
+
+Each experiment has its own MATLAB script with code and comments. Happy learning!
