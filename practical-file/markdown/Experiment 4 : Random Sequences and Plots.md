@@ -1,3 +1,5 @@
+# Input
+
 ```MATLAB
 
 % Trigonometric Functions - sin(t),cos(t), tan(t), sec(t), cosec(t) and cot(t) for a given duration, ‘t’.
@@ -87,3 +89,13 @@ ylabel('\sqrt[3]{A}');
 
 
 ```
+
+# Output
+
+![](../../assets/Experiment_4_1.png)
+
+![](../../assets/Experiment_4_2.png)
+
+![](../../assets/Experiment_4_3.png)
+
+![](../../assets/Experiment_4_4.png)

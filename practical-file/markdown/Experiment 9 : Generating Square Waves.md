@@ -1,3 +1,5 @@
+# Input
+
 ```MATLAB
 
 % Define the frequency and amplitude of the sine waves
@@ -28,3 +30,7 @@ title('Square Wave from Sum of Sine Waves');
 
 
 ```
+
+# Output
+
+![](../../assets/Experiment_9.png)

@@ -1,3 +1,5 @@
+# Input
+
 ```MATLAB
 % Define the frequency of the signal
 freq = 2;
@@ -40,3 +42,9 @@ ylabel('Amplitude');
 title('Sinusoidal Signal with 4 Hz frequency');
 
 ```
+
+# Output
+
+![](../../assets/Experiment_6_1.png)
+
+![](../../assets/Experiment_6_2.png)

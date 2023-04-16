@@ -1,3 +1,5 @@
+# Input
+
 ```MATLAB
 % First Order
 
@@ -64,3 +66,7 @@ ylabel('y');
 title('Solution to Third-Order Differential Equation');
 
 ```
+
+# Output
+
+![](../../assets/Experiment_7_3.png)

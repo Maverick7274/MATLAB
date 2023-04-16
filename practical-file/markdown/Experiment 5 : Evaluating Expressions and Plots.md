@@ -1,3 +1,5 @@
+# Input
+
 ```MATLAB
 
 % Creating a vector X with elements Xn = (-1)^(n+1)/(2n-1) and adding up 100 elements of the vector X
@@ -45,3 +47,13 @@ ylabel('y');
 
 
 ```
+
+# Output
+
+![](../../assets/Experiment_5_1.png)
+
+![](../../assets/Experiment_5_2.png)
+
+![](../../assets/Experiment_5_3.png)
+
+![](../../assets/Experiment_5_4.png)

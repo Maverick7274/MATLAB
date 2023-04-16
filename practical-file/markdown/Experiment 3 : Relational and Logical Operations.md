@@ -1,3 +1,4 @@
+# Input 
 ```MATLAB
 
 % Add up the values of the elements (Check with sum)
@@ -27,3 +28,9 @@ xlabel('Index')
 ylabel('Value')
 
 ```
+
+
+
+# Output
+
+![](../../assets/Experiment_3.png)

@@ -1,3 +1,5 @@
+# Input
+
 ```MATLAB
 
 % Parametric Space Curve
@@ -69,3 +71,25 @@ title('Bar Chart');
 
 
 ```
+
+# Output
+
+## Polygon with Vertices
+
+![](../../assets/Experiment_10_1.png)
+
+## Parametric Space Curve
+
+![](../../assets/Experiment_10_2.png)
+
+## 3D Contour Lines
+
+![](../../assets/Experiment_10_3.png)
+
+## Pie Chart
+
+![](../../assets/Experiment_10_4.png)
+
+## Bar Chart
+
+![](../../assets/Experiment_10_5.png)

@@ -1,3 +1,5 @@
+# Input
+
 ```MATLAB
 
 % Request user input for T value
@@ -25,4 +27,15 @@ else
     disp("Invalid input. T must be greater than 100.")
 end
 
+```
+
+# Output
+
+```MATLAB
+>> Enter a value for T between 0 and 100: 
+67
+>> h(T) = 57
+>> Enter a value for T: 
+167
+>> h(T) = 975.15
 ```
